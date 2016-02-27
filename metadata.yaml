@@ -1,0 +1,25 @@
+_repo: The-Scientific-Monthly-October-to-December-1915_987
+contributor:
+  creator:
+    editor:
+      agent_name: Cattell, James McKeen
+      alias: Cattell, J. McKeen (James Mckeen)
+      birthdate: 1860
+      deathdate: 1944
+      gutenberg_agent_id: '39849'
+      url: http://www.gutenberg.org/2009/agents/39849
+description: ''
+gutenberg_bookshelf: Popular Science Monthly
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Science -- Periodicals'
+title: The Scientific Monthly, October to December, 1915
+url: http://www.gutenberg.org/ebooks/987
